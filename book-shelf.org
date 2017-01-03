@@ -3,7 +3,7 @@ This are some books which are recommended to me by some influential
 people.
 
 ** The Mythical Man-Month - Book by Fred Brooks 
-[[https://drive.google.com/open?id%3D0B7E4rZvnbJaHcVB0V1g3Nm5pWDQ][ The Mythical Man-Month]] 
+[[https://drive.google.com/open?id=0B7E4rZvnbJaHcVB0V1g3Nm5pWDQ][ The Mythical Man-Month]] 
 
 The Mythical Man-Month: Essays on Software Engineering is a book on 
 software engineering and project management by Fred Brooks, whose 
